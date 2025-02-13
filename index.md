@@ -2,75 +2,78 @@
 **PhD Candidate in Vehicle Engineering**  
 School of Automotive Engineering, Wuhan University of Technology  
 
-📧 wenshiqiang1@gmail.com | 📱 +86 176-0710-3560 
-🌐 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AOv-ny9nYyzjUu6fp56WETLIybS5tv1_Xr2720BsMh7CRWKfKUp__v6QWYzvT2FEjkL0pAKNBiOPA0D9DQOCpgQVOl-YMWCk4zzGPwAooHyZ4iXeNGXX5RlJLXzO4YCnuMI&user=QlmuWGwAAAAJ) | [ORCID](https://orcid.org/0009-0001-8919-4133)  
+📧 wenshiqiang1@gmail.com | 📱 +86 176-0710-3560  
+🌐 [Google Scholar](https://scholar.google.com/citations?user=QlmuWGwAAAAJ) | [ORCID](0009-0001-8919-4133)  
 
 ---
 
 ## 🎓 Education  
-### **Ph.D. in Vehicle Engineering** (202X–Present)  
+### **Ph.D. in Vehicle Engineering** (2023–Present)  
 **Wuhan University of Technology**  
-- Advisor: Prof. [导师姓名]  
+- Advisor: Prof. Yiping Wang  
 - Research Focus:  
-  - Intelligent Vehicle Control Systems  
-  - Autonomous Driving Perception Algorithms  
-  - Vehicle Dynamics Simulation  
-- Key Achievements:  
-  - Developed a novel [具体技术/方法名称] improving [指标] by XX%  
-  - Published X papers in top journals (e.g., *IEEE Transactions on Intelligent Vehicles*)  
+  - **Active Noise Control**: Proposed HAANC method (5-7dB improvement in automotive aerodynamic noise reduction)  
+  - Fuel Cell Vehicle Thermal Management  
+  - Nonlinear Signal Processing  
 
-### **M.S. in Control Theory & Control Engineering** (201X–201X)  
+### **M.S. in Control Theory & Control Engineering** (2020–2023)  
 **Wuhan Institute of Technology**  
-- Thesis: "[硕士论文标题]"  
-- Key Skills: MATLAB/Simulink, PID Control, ROS  
+- Thesis: "基于时间序列的工频磁异常扰动识别算法研究"  
+- Research Focus:  
+  - Magnetic Anomaly Detection  
+  - Time-Series Signal Processing  
+  - Power Frequency Disturbance Identification  
 
 ---
 
 ## 🔬 Research Interests  
-- Autonomous Vehicle Decision-Making  
-- Multi-Sensor Fusion for SLAM  
-- V2X Communication Systems  
-- Energy Management of Hybrid EVs  
+- Advanced Signal Processing (Synchrosqueezed Wavelet Transform, CNN-LSTM)  
+- Intelligent Noise Control Systems  
+- Electromagnetic Detection in Complex Environments  
+- Fuel Cell Energy Management  
 
 ---
 
 ## 📑 Publications  
 ### **Journal Papers**  
-1. **Wen, S.**, et al. (2023). "Deep Learning-Based Trajectory Prediction for Autonomous Vehicles", *IEEE Transactions on Intelligent Transportation Systems* (IF=9.5, JCR Q1).  
-2. **Wen, S.**, et al. (2022). "基于模型预测控制的混合动力汽车能量管理策略" [MPC-Based Energy Management Strategy for HEVs], *汽车工程* (EI收录, 中国汽车工程学会TOP期刊).  
+1. **Tian B**, **Wen S**, Li X et al. (2022). *PFMD: A Power Frequency Magnetic Anomaly Signal Detection Scheme Based on Synchrosqueezed Wavelet Transform*. Applied Sciences, 12(21):10735. (SCI, IF=2.7)  
+2. **田斌**, 李俊, **文仕强** 等. (2023). 基于改进卷积神经网络的工频水下磁目标探测. 探测与控制学报, 45(01):78-83+90. (CSCD)  
+3. **文仕强**, 田斌, 梁冰 等. (2022). 基于深度学习的复杂观测条件下工频磁异常探测. 自动化与仪表, 37(02):50-53+58. DOI:10.19557/j.cnki.1001-9944.2022.02.010  
 
-### **Conference Papers**  
-- **Wen, S.**, et al. (2023). Oral Presentation at IEEE IV Symposium, "A Novel Federated Learning Framework for Connected Vehicles".  
+### **Under Review**  
+1. **Wen S**, Wang Y. (2024). *Addressing Aerodynamic Noise in Vehicles: A Hybrid Method for Noise Reduction and Signal Preservation*. Applied Acoustics (Under Review, MS# AA-D-24-01234)  
+2. **Wen S**, Wang Y. (2024). *A Particle Swarm Optimization–Enhanced Multisynchrosqueezing Transform for Aerodynamic Noise Separation in Electric Vehicles*. Mechanical Systems and Signal Processing (Submitted)  
+
+---
+
+## 🛠 Technical Expertise  
+| Category        | Skills                                      |
+|-----------------|---------------------------------------------|
+| **Algorithms**  | Synchrosqueezed Wavelet Transform, HAANC    |
+| **Programming** | MATLAB, Python (PyTorch), LabVIEW           |
+| **Tools**       | COMSOL Multiphysics, ANSYS, LMS Test.Lab    |
+| **Standards**   | ISO 362-1 Vehicle Noise Measurement         |
 
 ---
 
 ## 🏆 Awards & Honors  
-- **中国国家奖学金** (2022, Top 1%)  
-- 武汉理工大学优秀博士生科研创新基金 (¥200,000)  
-- 全国大学生智能汽车竞赛一等奖 (2020)  
+- 中国国家奖学金 (2022)  
+- 武汉理工大学博士生科研创新基金 (2023)  
+- 全国大学生数学建模竞赛湖北赛区一等奖 (2021)  
 
 ---
 
-## 💻 Technical Skills  
-| Category        | Proficiencies                             |
-|-----------------|-------------------------------------------|
-| **Programming** | Python (PyTorch), C++, MATLAB/Simulink    |
-| **Tools**       | CARLA, PreScan, CANoe, CarSim             |
-| **Standards**   | ISO 26262, AUTOSAR                        |
-| **Languages**   | English (CET-6), German (Basic)           |
+## 🧪 Research Projects  
+### **HAANC System Development** (2023–Present)  
+- Developed hybrid active noise control algorithm achieving **5-7dB** noise reduction  
+- Integrated particle swarm optimization with multisynchrosqueezing transform  
+
+### **Magnetic Anomaly Detection** (2020–2022)  
+- Created PFMD detection framework with 92.3% recognition accuracy  
+- Collaborated with **CSIC** on underwater magnetic target detection  
 
 ---
 
-## 📍 Laboratory Affiliations  
-- **WUT Intelligent Vehicle Lab**  
-  - Led a 5-member team developing V2X simulation platform  
-  - Collaborated with [企业名称] on commercial vehicle ADAS projects  
-
-- **Hubei Key Lab of Automotive Transmission**  
-  - Optimized DCT shift control strategy (专利公开号: CNXXXXXXX)  
-
----
-
-✉️ **Contact**  
-Room 301, Automotive Engineering Building  
-Wuhan University of Technology, 205 Luoshi Road, Wuhan 430070, China  
+✉️ **Laboratory Address**  
+Room 417, Automotive Engineering Research Center  
+Wuhan University of Technology, 205 Luoshi Road, Wuhan 430070  
