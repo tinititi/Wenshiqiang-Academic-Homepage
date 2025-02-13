@@ -36,13 +36,15 @@ School of Automotive Engineering, Wuhan University of Technology
 
 ## 📑 Publications  
 ### **Journal Papers**  
-1. **Tian B**, **Wen S**, Li X et al. (2022). *PFMD: A Power Frequency Magnetic Anomaly Signal Detection Scheme Based on Synchrosqueezed Wavelet Transform*. Applied Sciences, 12(21):10735. (SCI, IF=2.7)  
-2. **田斌**, 李俊, **文仕强** 等. (2023). 基于改进卷积神经网络的工频水下磁目标探测. 探测与控制学报, 45(01):78-83+90. (CSCD)  
-3. **文仕强**, 田斌, 梁冰 等. (2022). 基于深度学习的复杂观测条件下工频磁异常探测. 自动化与仪表, 37(02):50-53+58. DOI:10.19557/j.cnki.1001-9944.2022.02.010  
+1. **Tian B**, **Wen S**, Li X et al. (2022). *PFMD: A Power Frequency Magnetic Anomaly Signal Detection Scheme Based on Synchrosqueezed Wavelet Transform*. Applied Sciences, 12(21):10735. (SCI, IF=2.7)
+2. **Tian, B.**, **Wen, S.**, Hu, T., et al. (2021). Underwater Target Detection via Power Frequency Magnetic Field Disturbance Signal Analysis [水下目标工频磁场扰动信号检测方法研究]. *Journal of Hebei University of Science and Technology*, 42(5):491-498. (CAJ-N核心, Cited 15+ times)
+3. **Tian, B.**, Ge, Y., Liang, B., **Wen, S.**, et al. (2021). CNN-LSTM Hybrid Model for Power Frequency Magnetic Disturbance Prediction [基于CNN-LSTM混合模型的工频磁扰动信号预测]. *Automation & Instrumentation*, 36(11):11-14+26. DOI:10.19557/j.cnki.1001-9944.2021.11.003  
+4. **Tian, B.**, Li, J., **Wen, S.**, et al. (2023). Underwater Magnetic Target Detection at Power Frequency Based on Improved Convolutional Neural Network [基于改进卷积神经网络的工频水下磁目标探测]. Journal of Detection and Control, 45(01):78-83+90. (CSCD)
+5. **Wen, S.**, Tian, B., Liang, B., et al. (2022). Power Frequency Magnetic Anomaly Detection Under Complex Observation Conditions Based on Deep Learning [基于深度学习的复杂观测条件下工频磁异常探测]. Automation and Instrumentation, 37(02):50-53+58. DOI:10.19557/j.cnki.1001-9944.2022.02.010
 
 ### **Under Review**  
-1. **Wen S**, Wang Y. (2024). *Addressing Aerodynamic Noise in Vehicles: A Hybrid Method for Noise Reduction and Signal Preservation*. Applied Acoustics (Under Review, MS# AA-D-24-01234)  
-2. **Wen S**, Wang Y. (2024). *A Particle Swarm Optimization–Enhanced Multisynchrosqueezing Transform for Aerodynamic Noise Separation in Electric Vehicles*. Mechanical Systems and Signal Processing (Submitted)  
+1. **Wen S**, Wang Y. (2025). *Addressing Aerodynamic Noise in Vehicles: A Hybrid Method for Noise Reduction and Signal Preservation*. Applied Acoustics (Under Review, MS# AA-D-24-01234)  
+2. **Wen S**, Wang Y. (2025). *A Particle Swarm Optimization–Enhanced Multisynchrosqueezing Transform for Aerodynamic Noise Separation in Electric Vehicles*. Mechanical Systems and Signal Processing (Submitted)  
 
 ---
 
