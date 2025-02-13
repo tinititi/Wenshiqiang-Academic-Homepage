@@ -50,12 +50,14 @@ School of Automotive Engineering, Wuhan University of Technology
 ---
 
 ## 🛠 Technical Expertise  
+
 | Category        | Skills                                      |
 |-----------------|---------------------------------------------|
 | **Algorithms**  | Synchrosqueezed Wavelet Transform, HHT, EMD |
 | **Programming** | MATLAB, Python (PyTorch), LabVIEW           |
 | **Tools**       | COMSOL Multiphysics, ANSYS, LMS Test.Lab    |
 | **Standards**   | ISO 362-1 Vehicle Noise Measurement         |
+
 
 ---
 
