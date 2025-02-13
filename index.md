@@ -40,9 +40,13 @@ School of Automotive Engineering, Wuhan University of Technology
 ### **Journal Papers**  
 1. **Tian B**, **Wen S**, Li X et al. (2022). *PFMD: A Power Frequency Magnetic Anomaly Signal Detection Scheme Based on Synchrosqueezed Wavelet Transform*. Applied Sciences, 12(21):10735. (SCI, IF=2.7)
 2. **Tian, B.**, **Wen, S.**, Hu, T., et al. (2021). Underwater Target Detection via Power Frequency Magnetic Field Disturbance Signal Analysis [水下目标工频磁场扰动信号检测方法研究]. *Journal of Hebei University of Science and Technology*, 42(5):491-498. (CAJ-N核心, Cited 15+ times)
-3. **Tian, B.**, Ge, Y., Liang, B., **Wen, S.**, et al. (2021). CNN-LSTM Hybrid Model for Power Frequency Magnetic Disturbance Prediction [基于CNN-LSTM混合模型的工频磁扰动信号预测]. *Automation & Instrumentation*, 36(11):11-14+26. DOI:10.19557/j.cnki.1001-9944.2021.11.003  
+3. **Tian, B.**, Ge, Y., Liang, B., **Wen, S.**, et al. (2021). CNN-LSTM Hybrid Model for Power Frequency Magnetic Disturbance Prediction [基于CNN-LSTM混合模型的工频磁扰动信号预测]. *Automation & Instrumentation*, 36(11):11-14+26. DOI:10.19557/j.cnki.1001-9944.2021.11.003
+        
+          
 4. **Tian, B.**, Li, J., **Wen, S.**, et al. (2023). Underwater Magnetic Target Detection at Power Frequency Based on Improved Convolutional Neural Network [基于改进卷积神经网络的工频水下磁目标探测]. Journal of Detection and Control, 45(01):78-83+90. (CSCD)
 5. **Wen, S.**, Tian, B., Liang, B., et al. (2022). Power Frequency Magnetic Anomaly Detection Under Complex Observation Conditions Based on Deep Learning [基于深度学习的复杂观测条件下工频磁异常探测]. Automation and Instrumentation, 37(02):50-53+58. DOI:10.19557/j.cnki.1001-9944.2022.02.010
+        
+        
 
 ### **Under Review**  
 1. **Wen S**, Wang Y. (2025). *Addressing Aerodynamic Noise in Vehicles: A Hybrid Method for Noise Reduction and Signal Preservation*. Applied Acoustics (Under Review, MS# AA-D-24-01234)  
@@ -72,7 +76,7 @@ School of Automotive Engineering, Wuhan University of Technology
 
 ## 🧪 Research Projects  
 ### Fuel Cell Vehicle Thermal-Energy Co-optimization (2024–Present)
-- Developed multi-source coupled thermal management architecture for 150kW+ fuel cell vehicles, integrating cooling, waste heat recovery, and hydrogen supply subsystems
+- Developed multi-source coupled thermal management architecture for 300kW+ fuel cell vehicles, integrating cooling, waste heat recovery, and hydrogen supply subsystems
 - Proposed AI-driven energy management strategy reducing hydrogen consumption by 8.5% in urban driving cycles
 - Built digital twin platform with Modelica for system-level thermal-fluid simulation and control validation
 - Coordinated cross-disciplinary team to achieve ISO 23828 compliance in energy efficiency testing
