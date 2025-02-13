@@ -51,7 +51,7 @@ School of Automotive Engineering, Wuhan University of Technology
 ## 🛠 Technical Expertise  
 | Category        | Skills                                      |
 |-----------------|---------------------------------------------|
-| **Algorithms**  | Synchrosqueezed Wavelet Transform, HAANC    |
+| **Algorithms**  | Synchrosqueezed Wavelet Transform, HHT, EMD |
 | **Programming** | MATLAB, Python (PyTorch), LabVIEW           |
 | **Tools**       | COMSOL Multiphysics, ANSYS, LMS Test.Lab    |
 | **Standards**   | ISO 362-1 Vehicle Noise Measurement         |
@@ -59,23 +59,41 @@ School of Automotive Engineering, Wuhan University of Technology
 ---
 
 ## 🏆 Awards & Honors  
-- 中国国家奖学金 (2022)  
-- 武汉理工大学博士生科研创新基金 (2023)  
-- 全国大学生数学建模竞赛湖北赛区一等奖 (2021)  
+- Hero Cup Innovation and Entrepreneurship Competition (Wuhan, Hubei) – First Prize
+- Second Class Scholarship of Wuhan Institute of Technology(2022) 
+- Second Class Scholarship of Wuhan Institute of Technology(2021)  
+- Second Class Scholarship of Wuhan Institute of Technology(2020) 
 
 ---
 
 ## 🧪 Research Projects  
-### **HAANC System Development** (2023–Present)  
-- Developed hybrid active noise control algorithm achieving **5-7dB** noise reduction  
-- Integrated particle swarm optimization with multisynchrosqueezing transform  
-
-### **Magnetic Anomaly Detection** (2020–2022)  
-- Created PFMD detection framework with 92.3% recognition accuracy  
-- Collaborated with **CSIC** on underwater magnetic target detection  
+### Fuel Cell Vehicle Thermal-Energy Co-optimization (2024–Present)
+- Developed multi-source coupled thermal management architecture for 150kW+ fuel cell vehicles, integrating cooling, waste heat recovery, and hydrogen supply subsystems
+- Proposed AI-driven energy management strategy reducing hydrogen consumption by 8.5% in urban driving cycles
+- Built digital twin platform with Modelica for system-level thermal-fluid simulation and control validation
+- Coordinated cross-disciplinary team to achieve ISO 23828 compliance in energy efficiency testing
+- Project Source: Hubei Provincial Department of Science and Technology (CNY 940k) | Role: Lead Student Researcher
+  
+### Magnetic Field Data Analysis and Anomaly Detection (2019.10–2023)
+- Collected and analyzed magnetic field data from Nantong, Hong'an, Xuancheng, and Enshi using self-developed sensors
+- Built a HBase-based big data platform for signal processing in time and frequency domains
+- Detected anomalies through deep learning classification with multi-domain feature extraction
+- Project Source: Basic Research Strengthening Program of the Science and Technology Commission (CNY 2 million) | Role: Lead Student Researcher
+  
+### Multi-parameter Environmental Monitoring System (2019.10-2023)
+- Designed integrated IoT system for dissolved oxygen, pH, water level/temperature, and rainfall monitoring
+- Deployed devices at 5 geological survey sites with 99.8% uptime over 2 years
+- Developed data cleaning pipeline and analyzed cloud-based environmental data
+- Project Source: Wuhan Geological Survey Bureau Collaborative Project (CNY 180k) | Role: Lead Student Researcher
+- 
+### Underwater Unmanned Vehicle Development (2020.10–2021.03)
+- Designed 1.9-ton UUV with 9:1 length-diameter ratio and 2+ knot maneuverability
+- Implemented autonomous control system for diving, surfacing, and directional navigation
+- Optimized hydrodynamic hull shape through CFD simulations
+- Project Source: Huazhong University of Science and Technology Collaborative Project (CNY 340k) | Role: Lead Student Researcher
 
 ---
 
 ✉️ **Laboratory Address**  
-Room 417, Automotive Engineering Research Center  
+Room A102, School of Automotive Engineering  
 Wuhan University of Technology, 205 Luoshi Road, Wuhan 430070  
