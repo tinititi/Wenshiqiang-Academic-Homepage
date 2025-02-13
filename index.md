@@ -75,14 +75,14 @@ School of Automotive Engineering, Wuhan University of Technology
 ---
 
 ## 🧪 Research Projects  
-### Fuel Cell Vehicle Thermal-Energy Co-optimization (2024–Present)
+### Fuel Cell Vehicle Thermal-Energy Co-optimization (2023.10–Present)
 - Developed multi-source coupled thermal management architecture for 300kW+ fuel cell vehicles, integrating cooling, waste heat recovery, and hydrogen supply subsystems
 - Proposed AI-driven energy management strategy reducing hydrogen consumption by 8.5% in urban driving cycles
 - Built digital twin platform with Modelica for system-level thermal-fluid simulation and control validation
 - Coordinated cross-disciplinary team to achieve ISO 23828 compliance in energy efficiency testing
 - Project Source: Hubei Provincial Department of Science and Technology (CNY 940k) | Role: Lead Student Researcher
   
-### Magnetic Field Data Analysis and Anomaly Detection (2019.10–2023)
+### Magnetic Field Data Analysis and Anomaly Detection (2019.10–2023.06)
 - Collected and analyzed magnetic field data from Nantong, Hong'an, Xuancheng, and Enshi using self-developed sensors
 - Built a HBase-based big data platform for signal processing in time and frequency domains
 - Detected anomalies through deep learning classification with multi-domain feature extraction
