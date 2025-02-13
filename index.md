@@ -19,6 +19,7 @@ School of Automotive Engineering, Wuhan University of Technology
 
 ### **M.S. in Control Theory & Control Engineering** (2020–2023)  
 **Wuhan Institute of Technology**  
+- Advisor: Prof. Bin Tian  
 - Thesis: "*Time-Series Based Identification Algorithm for Power Frequency Magnetic Anomaly Disturbances* [基于时间序列的工频磁异常扰动识别算法研究]"  
 - Research Focus:  
   - Magnetic Anomaly Detection  
