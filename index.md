@@ -13,7 +13,7 @@ School of Automotive Engineering, Wuhan University of Technology
 **Wuhan University of Technology**  
 - Advisor: Prof. Yiping Wang  
 - Research Focus:  
-  - **Active Noise Control**: Proposed HAANC method (5-7dB improvement in automotive aerodynamic noise reduction)  
+  - Active Noise Control: Proposed HAANC method (5-7dB improvement in automotive aerodynamic noise reduction)  
   - Fuel Cell Vehicle Thermal Management  
   - Nonlinear Signal Processing  
 
