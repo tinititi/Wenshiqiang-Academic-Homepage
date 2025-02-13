@@ -2,8 +2,8 @@
 **PhD Candidate in Vehicle Engineering**  
 School of Automotive Engineering, Wuhan University of Technology  
 
-📧 wenshiqiang1@gmail.com | 📱 +86 138-XXXX-XXXX  
-🌐 [Google Scholar](https://scholar.google.com) | [ORCID](https://orcid.org/XXXX-XXXX-XXXX-XXXX)  
+📧 wenshiqiang1@gmail.com | 📱 +86 176-0710-3560 
+🌐 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AOv-ny9nYyzjUu6fp56WETLIybS5tv1_Xr2720BsMh7CRWKfKUp__v6QWYzvT2FEjkL0pAKNBiOPA0D9DQOCpgQVOl-YMWCk4zzGPwAooHyZ4iXeNGXX5RlJLXzO4YCnuMI&user=QlmuWGwAAAAJ) | [ORCID](https://orcid.org/0009-0001-8919-4133)  
 
 ---
 
